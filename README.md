@@ -30,5 +30,5 @@ I work at Walmart as an OPD Associate, where I’ve sharpened skills like teamwo
 Check out some of my repositories below — I’m actively working to grow my experience and improve with every commit!
 
 📫 Let’s Connect
-Feel free to connect with me on LinkedIn or reach out if you're working on something interesting!
+Feel free to connect with me on LinkedIn (www.linkedin.com/in/brunovalente94) or reach out if you're working on something interesting!
 
