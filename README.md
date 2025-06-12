@@ -1,30 +1,34 @@
-# Overview
+Hi there! I'm Bruno Valente
+Aspiring Full-Stack Developer | CS Student at BYU-Idaho | Nucamp Web Development Graduate | Learning JavaScript, HTML, CSS, Python & Node.js
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+I'm passionate about building useful, user-friendly web applications and continually growing my skills as a developer. I’m currently studying Computer Science at BYU-Idaho and completed a Web Development bootcamp with Nucamp, where I gained hands-on experience with front-end and back-end technologies.
 
-{Provide a description the game that you wrote. Describe how to play your game.}
+🔧 Current Focus
 
-{Describe your purpose for writing this software.}
+Full-Stack Development
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
+JavaScript (ES6+), HTML5, CSS3
 
-[Software Demo Video](http://youtube.link.goes.here)
+Python (with class and project experience)
 
-# Development Environment
+Node.js and Express
 
-{Describe the tools that you used to develop the software}
+Git & GitHub for version control
 
-{Describe the programming language that you used and any libraries.}
+📚 Learning Goals
 
-# Useful Websites
+Build real-world projects to strengthen my portfolio
 
-{Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+Practice clean, readable code and efficient problem solving
 
-# Future Work
+Collaborate with others on open source or team projects
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+🌱 Outside Tech
+I work at Walmart as an OPD Associate, where I’ve sharpened skills like teamwork, time management, and customer-focused problem-solving—skills that also translate well into tech teams and fast-paced development environments.
+
+🚀 Projects
+Check out some of my repositories below — I’m actively working to grow my experience and improve with every commit!
+
+📫 Let’s Connect
+Feel free to connect with me on LinkedIn or reach out if you're working on something interesting!
+
